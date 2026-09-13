@@ -1,7 +1,7 @@
 ## JARVIS 
 ## AI Integrated Voice Assistant
 
-JARVIS is a Python-based personal AI assistant that combines **voice recognition, text-to-speech, web utilities, and local AI conversation.
+JARVIS is a Python-based personal AI assistant that combines voice recognition, text-to-speech, web utilities, and local AI conversation.
 
 The project is designed to act as a voice-controlled assistant capable of listening to commands, responding using AI, speaking responses aloud, and performing useful tasks.
 
