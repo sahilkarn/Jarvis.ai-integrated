@@ -44,7 +44,7 @@ jarvis.ai-integrated/
 Clone the repository:
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/jarvis.ai-integrated.git
+git clone https://github.com/sahilkarn/jarvis.ai-integrated.git
 ```
 
 Move into the project directory:
