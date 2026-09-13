@@ -32,12 +32,11 @@ The project is designed to act as a voice-controlled assistant capable of listen
 ```text
 jarvis.ai-integrated/
 │
+├── README.md           # Project documentation
+├── jarvis.cpython-314.pyc  #It is a system created cache file so you can skip this one tbh
 ├── jarvis.py           # Main JARVIS program
 ├── jarvis_backup.py    # Backup version
-├── testai.py           # AI testing script
-├── requirements.txt    # Python dependencies
-├── .gitignore          # Files ignored by Git
-└── README.md           # Project documentation
+└── testai.py           # AI testing script
 ```
 
 ## Installation
